@@ -7,4 +7,6 @@ public class ranita {
         System.out.println("git is boring !!");
     }
     int x=0;
+    public void hell(){
+   System.out.println("how did it work !!");  }
 }
